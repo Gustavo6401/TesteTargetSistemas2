@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\bin\Debug\net6.0\3-Raciocinio.exe
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\bin\Debug\net6.0\3-Raciocinio.deps.json
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\bin\Debug\net6.0\3-Raciocinio.runtimeconfig.json
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\bin\Debug\net6.0\3-Raciocinio.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\bin\Debug\net6.0\3-Raciocinio.pdb
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\3-Raciocinio.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\3-Raciocinio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\3-Raciocinio.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\3-Raciocinio.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\3-Raciocinio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\3-Raciocinio.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\refint\3-Raciocinio.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\3-Raciocinio.pdb
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\3-Raciocinio.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\3-Raciocinio\obj\Debug\net6.0\ref\3-Raciocinio.dll

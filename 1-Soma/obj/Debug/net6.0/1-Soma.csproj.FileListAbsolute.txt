@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\bin\Debug\net6.0\1-Soma.exe
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\bin\Debug\net6.0\1-Soma.deps.json
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\bin\Debug\net6.0\1-Soma.runtimeconfig.json
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\bin\Debug\net6.0\1-Soma.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\bin\Debug\net6.0\1-Soma.pdb
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\1-Soma.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\1-Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\1-Soma.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\1-Soma.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\1-Soma.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\1-Soma.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\refint\1-Soma.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\1-Soma.pdb
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\1-Soma.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga2\1-Soma\obj\Debug\net6.0\ref\1-Soma.dll
